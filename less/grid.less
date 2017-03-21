@@ -33,7 +33,8 @@
     }
 
     .grid {
-        font-size: 0; // (1)
+        display: flex;
+        flex-wrap: wrap;
         line-height: 1;
         list-style: none;
         margin: 0;
@@ -110,12 +111,12 @@
 
         // Left
         &--left@{modifier} {
-            text-align: left;
+            justify-content: flex-start;
         }
 
         // Right
         &--right@{modifier} {
-            text-align: right;
+            justify-content: flex-end;
         }
 
         // Center
@@ -125,25 +126,18 @@
 
         // Top
         &--top@{modifier} {
-            > .grid__item {
-                vertical-align: top;
-            }
+            align-items: flex-start;
         }
 
         // Middle
         &--middle@{modifier} {
-            > .grid__item {
-                vertical-align: middle;
-            }
+            align-items: center;
         }
 
         // Bottom
         &--bottom@{modifier} {
-            > .grid__item {
-                vertical-align: bottom;
-            }
+            align-items: flex-end;
         }
-
     }
 }
 
