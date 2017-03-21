@@ -19,10 +19,10 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-csslint": "~0.2.0",
-    "grunt-contrib-less": "~0.11.0",
-    "matchdep": "~0.3.0"
+    "grunt": "~1.0.1",
+    "grunt-contrib-csslint": "~2.0.0",
+    "grunt-contrib-less": "~1.4.1",
+    "matchdep": "~1.0.1"
   },
   "license": "MIT",
   "readmeFilename": "README.md"
