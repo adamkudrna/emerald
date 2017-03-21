@@ -1,6 +1,6 @@
 {
   "name": "emerald",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "Emerald is a responsive grid system written in LESS",
   "keywords": [
     "css",
@@ -16,7 +16,7 @@
   },
   "bugs": "https://github.com/lmc-eu/emerald/issues",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 7.0.0"
   },
   "devDependencies": {
     "grunt": "~1.0.1",

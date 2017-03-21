@@ -1,11 +1,12 @@
-# Emerald v1.2.2
+# Emerald
 
 [![devDependency Status](https://david-dm.org/visionappscz/emerald/dev-status.svg)](https://david-dm.org/visionappscz/emerald?type=dev)
 [![Build Status](https://travis-ci.org/visionappscz/emerald.svg?branch=master)](https://travis-ci.org/visionappscz/emerald)
 
-[lmc-eu.github.io/emerald/](http://lmc-eu.github.io/emerald/)
+[VisionApps'](https://github.com/visionappscz) fork of
+[lmc-eu.github.io/emerald/](http://lmc-eu.github.io/emerald/), refactored to flexbox.
 
-Emerald is a pragmatic responsive grid system in LESS 
+Emerald is a pragmatic responsive grid system in LESS.
 
 * Responsive
 * OOCSS
@@ -13,15 +14,11 @@ Emerald is a pragmatic responsive grid system in LESS
 * Nestable
 * Mobile-first
 * Tablet-come-from
-* Block-element based
+* Flexbox based
 * (= no floats, clears or rows)
 * Configurable
-* 1.2 kB (minified and gzipped)
 
 ## How to use
-Install via *Bower*
-
-`$ bower install emerald`
 
 Either include source *LESS* files into your project (recommended) or use compiled *CSS*.
 
@@ -59,6 +56,7 @@ This grid system was inspired by:
 * [yui/pure](http://github.com/yui/pure)
 
 ## Changelog
+* v2.0.0    Refactor grid to flexbox
 * v1.2.1    Fix `.e-0` classes (fixes [#4](https://github.com/lmc-eu/emerald/issues/4))
 * v1.2.0    Code refactoring, fix typos, remove legacy and minimised CSSs
 * v1.1.3    Fix a bug with .e-0 classes overwriting on higher devices
@@ -66,4 +64,3 @@ This grid system was inspired by:
 * v1.1.1    Hiding .grid__item in print
 * v1.1.0    Add print styles (fixes [#6](https://github.com/lmc-eu/emerald/issues/6))
 * v1.0.0    Initial release, production ready
-
