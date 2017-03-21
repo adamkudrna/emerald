@@ -1,6 +1,6 @@
 # Emerald v1.2.2
 
-[![devDependency Status](https://david-dm.org/visionappscz/emerald/dev-status.svg)](https://david-dm.org/visionappscz/emerald#info=devDependencies)
+[![devDependency Status](https://david-dm.org/visionappscz/emerald/dev-status.svg)](https://david-dm.org/visionappscz/emerald?type=dev)
 [![Build Status](https://travis-ci.org/visionappscz/emerald.svg?branch=master)](https://travis-ci.org/visionappscz/emerald)
 
 [lmc-eu.github.io/emerald/](http://lmc-eu.github.io/emerald/)
