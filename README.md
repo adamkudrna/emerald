@@ -1,5 +1,8 @@
 # Emerald v1.2.2
 
+[![devDependency Status](https://david-dm.org/visionappscz/emerald/dev-status.svg)](https://david-dm.org/visionappscz/emerald#info=devDependencies)
+[![Build Status](https://travis-ci.org/visionappscz/emerald.svg?branch=master)](https://travis-ci.org/visionappscz/emerald)
+
 [lmc-eu.github.io/emerald/](http://lmc-eu.github.io/emerald/)
 
 Emerald is a pragmatic responsive grid system in LESS 
@@ -63,6 +66,4 @@ This grid system was inspired by:
 * v1.1.1    Hiding .grid__item in print
 * v1.1.0    Add print styles (fixes [#6](https://github.com/lmc-eu/emerald/issues/6))
 * v1.0.0    Initial release, production ready
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lmc-eu/emerald/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Dependency Status](https://gemnasium.com/lmc-eu/emerald.png)](https://gemnasium.com/lmc-eu/emerald)
 
