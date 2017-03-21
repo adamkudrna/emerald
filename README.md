@@ -67,5 +67,3 @@ This grid system was inspired by:
 * v1.1.0    Add print styles (fixes [#6](https://github.com/lmc-eu/emerald/issues/6))
 * v1.0.0    Initial release, production ready
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lmc-eu/emerald/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Dependency Status](https://gemnasium.com/lmc-eu/emerald.png)](https://gemnasium.com/lmc-eu/emerald)
-
