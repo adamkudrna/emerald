@@ -12,7 +12,7 @@
 // --------------------------------------------------------------------------
 
 .visible--palm {
-    display: flex;
+    display: block;
 }
 .visible--lap {
     display: none;
@@ -25,10 +25,10 @@
     display: none;
 }
 .hidden--lap {
-    display: flex;
+    display: block;
 }
 .hidden--desk {
-    display: flex;
+    display: block;
 }
 
 @media only screen and (min-width: @screen-lap) {
@@ -36,20 +36,20 @@
         display: none;
     }
     .visible--lap {
-        display: flex;
+        display: block;
     }
     .visible--desk {
         display: none;
     }
 
     .hidden--palm {
-        display: flex;
+        display: block;
     }
     .hidden--lap {
         display: none;
     }
     .hidden--desk {
-        display: flex;
+        display: block;
     }
 }
 
@@ -61,14 +61,14 @@
         display: none;
     }
     .visible--desk {
-        display: flex;
+        display: block;
     }
 
     .hidden--palm {
-        display: flex;
+        display: block;
     }
     .hidden--lap {
-        display: flex;
+        display: block;
     }
     .hidden--desk {
         display: none;
