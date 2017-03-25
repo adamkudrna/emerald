@@ -192,7 +192,7 @@
   justify-content: flex-end;
 }
 .grid--center--palm {
-  text-align: center;
+  justify-content: center;
 }
 .grid--top--palm {
   align-items: flex-start;
@@ -472,7 +472,7 @@
     justify-content: flex-end;
   }
   .grid--center {
-    text-align: center;
+    justify-content: center;
   }
   .grid--top {
     align-items: flex-start;
@@ -741,7 +741,7 @@
     justify-content: flex-end;
   }
   .grid--center--desk {
-    text-align: center;
+    justify-content: center;
   }
   .grid--top--desk {
     align-items: flex-start;
