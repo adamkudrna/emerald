@@ -1,5 +1,6 @@
 # Emerald
 
+[![dependency Status](https://david-dm.org/visionappscz/emerald/status.svg)](https://david-dm.org/visionappscz/emerald)
 [![devDependency Status](https://david-dm.org/visionappscz/emerald/dev-status.svg)](https://david-dm.org/visionappscz/emerald?type=dev)
 [![Build Status](https://travis-ci.org/visionappscz/emerald.svg?branch=master)](https://travis-ci.org/visionappscz/emerald)
 
