@@ -22,7 +22,8 @@ module.exports = function (grunt) {
         options: {
           'box-model': false,
           'box-sizing': false,
-          'known-properties': false
+          'known-properties': false,
+          'order-alphabetical': false
         },
         src: ['css/emerald.css']
       }

@@ -55,6 +55,13 @@
     .modsOfGrid(@grid-desk);  // (3)
 }
 
+@media only screen and (min-width: @screen-large) {
+    .updateGrid(@grid-large);
+    .updateColumns(@grid-desk; @grid-large);
+    .addColumns(@grid-large);
+    .modsOfGrid(@grid-large);
+}
+
 //
 // Print styles are imported last to override definitions correctly
 // --------------------------------------------------------------------------

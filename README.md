@@ -57,6 +57,7 @@ This grid system was inspired by:
 * [yui/pure](http://github.com/yui/pure)
 
 ## Changelog
+* v3.0.0    Add new `large` breakpoint for screens from 1280 px up
 * v2.0.0    Refactor grid to flexbox
 * v1.2.1    Fix `.e-0` classes (fixes [#4](https://github.com/lmc-eu/emerald/issues/4))
 * v1.2.0    Code refactoring, fix typos, remove legacy and minimised CSSs
