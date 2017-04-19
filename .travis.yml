@@ -1,9 +1,12 @@
 language: node_js
 node_js:
-  - "7.0"
+- '7.0'
 before_install:
-  - npm install -g grunt-cli
+- npm install -g grunt-cli
 install:
-  - npm install
+- npm install
 before_script:
-  - grunt
+- grunt
+notifications:
+  slack:
+    secure: BipcRxOdD0fwjj196mCr0XKK0na3iAMyFpI9dyavIyfVgZ/b5uIUo6sxhqQsCzXNrTw8AYO16PvIDhx+IHn0oihOmTPPL/NRNNMrmlF/a0+4tzfDQBsCMni5p1hxeYyg1gdh+VsTXWbmDjXCL03GhBXo0ucp/+ktjNQt4wD8XQk=
